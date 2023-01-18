@@ -1,0 +1,27 @@
+
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rebeccapurple;
+  width: 100%;
+}
+.title{
+  height: 70%;
+  width: 15%;
+  display: flex;
+  align-items: center;
+  color: rgb(141, 42, 42);
+}
+h1 {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin: 20px;
+  display: inline;
+  color: brown;
+}
+.subButton{
+  margin-top: 100px;
+  width: 150px;
+  height: 50px;
+}
